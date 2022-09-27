@@ -1,4 +1,4 @@
-# Jogo da memória
+# Devmemory
 
 Projeto criado em aula B7Web [Create React App](https://github.com/facebook/create-react-app).
 
